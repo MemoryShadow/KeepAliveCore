@@ -9,8 +9,9 @@
 8. 技术原理从Linux、Framework、Native层的角度去实现，非一像素、后台音乐、省电策略、白名单等弱鸡手段  
 9. 另有免权限应用外弹窗方案、隐藏图标方案、防卸载方案等一系列黑科技方案
 10. 支持的版本如下图所示
+
 保活SDK|品牌|Android版本|ROM版本
---|--|--|--
+---|---|---|---
 KeepAlive|华为|ALL|ALL
 KeepAlive|小米|11|MIUI11
 KeepAlive|OPPO|11|ColorOs11
