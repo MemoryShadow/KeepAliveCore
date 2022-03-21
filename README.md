@@ -1,4 +1,4 @@
-# KeepAliveCore [微信：yzytmac]
+# 安卓保活 [微信：yzytmac]
 1. 地表最强Android保活、杀不死进程、keepalive、daemon、core、sdk  
 2. 无需任何权限  
 3. 用户完全无感知(通知仅为演示，可以隐藏)  
