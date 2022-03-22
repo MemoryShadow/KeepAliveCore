@@ -1,7 +1,7 @@
 #!/bin/bash
-chmod +x ./README.md
+touch tag
 git add --all
 git commit -m "最强安卓保活"
-chmod -x ./README.md
+rm tag
 git add --all
-git commit --amend --no-edit
+git commit -m "最强安卓保活"
