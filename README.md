@@ -1,4 +1,4 @@
-# 安卓保活 [微信：yzytmac]
+# 安卓保活 
 1. 地表最强Android安卓保活(没有之一) 
 2. 无需任何权限、任何白名单  
 3. 用户完全无感知(通知仅为演示，可以隐藏)  
@@ -24,4 +24,5 @@ KeepAlivePro|VIVO|ALL|ALL、OriginOs Ocean
 KeepAlivePro|其他|ALL|ALL
 
 高清视频[keepalive.mp4](keepalive.mp4)  
+商务合作加微信![](https://raw.githubusercontent.com/yzytmac/yzytmac.github.io/master/medias/yzyweixin.png)  
 ![](keepalive.gif)
