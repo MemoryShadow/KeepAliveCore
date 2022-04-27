@@ -25,6 +25,6 @@ KeepAlivePro|其他|ALL|ALL
 
 高清视频[keepalive.mp4](keepalive.mp4)  
 👇🏻商务合作加微信👇🏻  
-![](keepalive.jpg){:height="100px" width="400px"}  
+ <img src="keepalive.jpg" width = "230" height = "290"/>  
 👆🏻商务合作加微信👆🏻  
 ![](keepalive.gif)
