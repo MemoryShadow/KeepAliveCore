@@ -18,9 +18,9 @@ KeepAliveCore|OPPO|ALL|ALL、ColorOs12
 KeepAliveCore|VIVO|ALL|ALL、OriginOs Ocean
 KeepAliveCore|其他|ALL|ALL
   
-👇🏻商务合作加微信👇🏻  
+👇🏻商务合作加微信👇🏻  😡白嫖和同行请自重😡
  <img src="keepalive.jpg" width = "230" height = "290"/>  
-👆🏻商务合作加微信👆🏻  
+👆🏻商务合作加微信👆🏻  😡白嫖和同行请自重😡
 
 |华为_HarmonyOS_2.0.0.210|华为_HarmonyOS_2.0.0.213|荣耀_HarmonyOS_2.0.0|
 |:--:|:--:|:--:|
