@@ -1,4 +1,4 @@
-# 安卓保活KeepAlivePro 
+# 安卓保活KeepAliveCore 
 1. 2022年5月最强Android安卓保活(地表最强保活)  
 2. 无需任何权限、任何白名单  
 3. 用户完全无感知(通知仅为演示，可以隐藏)  
@@ -12,16 +12,11 @@
 
 保活SDK|品牌|Android版本|ROM版本
 ---|---|---|---
-KeepAlive|华为、荣耀|ALL|ALL【安卓+鸿蒙】
-KeepAlive|小米|11|MIUI11
-KeepAlive|OPPO|11|ColorOs11
-KeepAlive|VIVO|10|FuntouchOS
-KeepAlive|其他|11|-
-KeepAlivePro|华为、荣耀|ALL|ALL【安卓+鸿蒙】
-KeepAlivePro|小米|ALL|ALL、MIUI13【全网唯一支持小米全系】
-KeepAlivePro|OPPO|ALL|ALL、ColorOs12
-KeepAlivePro|VIVO|ALL|ALL、OriginOs Ocean
-KeepAlivePro|其他|ALL|ALL
+KeepAliveCore|华为、荣耀|ALL|ALL【安卓+鸿蒙】
+KeepAliveCore|小米|ALL|ALL、MIUI13【全网唯一支持小米全系】
+KeepAliveCore|OPPO|ALL|ALL、ColorOs12
+KeepAliveCore|VIVO|ALL|ALL、OriginOs Ocean
+KeepAliveCore|其他|ALL|ALL
   
 👇🏻商务合作加微信👇🏻  
  <img src="keepalive.jpg" width = "230" height = "290"/>  
