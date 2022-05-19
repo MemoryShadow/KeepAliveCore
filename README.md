@@ -13,10 +13,10 @@
 保活SDK|品牌|Android版本|ROM版本
 ---|---|---|---
 KeepAliveCore|华为、荣耀|ALL|ALL【安卓+鸿蒙】
-KeepAliveCore|小米|ALL|ALL、MIUI13【全网唯一支持小米全系】
-KeepAliveCore|OPPO|ALL|ALL、ColorOs12
-KeepAliveCore|VIVO|ALL|ALL、OriginOs Ocean
-KeepAliveCore|其他|ALL|ALL
+KeepAliveCore|小米|ALL|ALL(支持最新MIUI13)
+KeepAliveCore|OPPO|ALL|ALL(支持最新ColorOs12)
+KeepAliveCore|VIVO|ALL|ALL(支持最新OriginOs_Ocean)
+KeepAliveCore|其他|ALL|ALL(支持最新Android13)
   
 |👇🏻合作加微信👇🏻😡白嫖请绕行😡|👇🏻合作加微信👇🏻😡白嫖请绕行😡|👇🏻合作加微信👇🏻😡白嫖请绕行😡|
 |:--:|:--:|:--:|
