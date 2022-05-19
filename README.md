@@ -12,7 +12,7 @@
 
 保活SDK|品牌|Android版本|ROM版本
 ---|---|---|---
-KeepAliveCore|华为、荣耀|ALL|ALL(支持最新的鸿蒙2.0)
+KeepAliveCore|华为、荣耀|ALL|ALL(支持最新鸿蒙2.0)
 KeepAliveCore|小米|ALL|ALL(支持最新MIUI13)
 KeepAliveCore|OPPO|ALL|ALL(支持最新ColorOs12)
 KeepAliveCore|VIVO|ALL|ALL(支持最新OriginOs_Ocean)
