@@ -1,1 +1,0 @@
-print("保活加微信:KeepAliveCore");
